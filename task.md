@@ -3,9 +3,10 @@
 
 Все операции должны считаться локально.
 
-Данные - $[Служба такси](https://disk.yandex.ru/d/DKeoopbGH1Ttuw) 
+Данные - [Служба такси](https://disk.yandex.ru/d/DKeoopbGH1Ttuw) 
 
 Есть таблица, состоящая из поездок такси в Нью-Йорке.
+
 ![$screenshot]([https://github.com/javascriptrocker2104/work_with_hadoop/blob/main/hadoop.png](https://github.com/javascriptrocker2104/1t_final_project/blob/main/images/table.png])
 ![$screenshot]([https://github.com/javascriptrocker2104/work_with_hadoop/blob/main/hadoop.png](https://github.com/javascriptrocker2104/1t_final_project/blob/main/images/tab.png])
 

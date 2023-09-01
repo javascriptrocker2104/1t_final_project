@@ -7,7 +7,7 @@
 
 Есть таблица, состоящая из поездок такси в Нью-Йорке.
 
-![$screenshot](https://github.com/javascriptrocker2104/1t_final_project/blob/main/images/table.png])
+![$screenshot](https://github.com/javascriptrocker2104/1t_final_project/blob/main/images/table.png)
 ![$screenshot](https://github.com/javascriptrocker2104/1t_final_project/blob/main/images/tab.png)
 
 Необходимо, используя таблицу поездок для каждого дня, рассчитать процент поездок по количеству человек в машине
